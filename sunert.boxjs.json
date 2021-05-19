@@ -356,9 +356,9 @@
         "CookieTB", 
         "cash_baidu"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/baiduspeed.js", 
+      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/baidu_speed.js", 
       "id": "baidu_speed", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baiduspeed.js", 
+      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js", 
       "settings": [
         {
           "items": [
