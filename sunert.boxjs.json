@@ -17,9 +17,9 @@
         "wb_cookie", 
         "wb_nick"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/weibo.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/weibo.js", 
       "id": "weibo", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/weibo.js", 
       "name": "新浪微博", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/weibo.png", 
@@ -43,9 +43,9 @@
         "zqcash", 
         "zqcard"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/youth.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/youth.js", 
       "id": "youth", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/youth.js", 
       "settings": [
         {
           "id": "zqcard", 
@@ -109,9 +109,9 @@
         "youth_start", 
         "youth_look"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/youth_gain.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/youth_gain.js", 
       "id": "youthGain", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/youth_gain.js", 
       "name": "中青浏览赚&看看赚", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
@@ -133,9 +133,9 @@
           "desc": "自动删除收益为0或者错误的阅读请求，使用完后请立即关闭，避免清空阅读请求"
         }
       ],
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/Youth_Read.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/Youth_Read.js", 
       "id": "youthRead", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/Youth_Read.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/Youth_Read.js", 
       "name": "中青自动阅读", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
@@ -148,9 +148,9 @@
         "sy_signheader_dsj", 
         "drawal_dsj"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/dianshijia.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/dianshijia.js", 
       "id": "dianshijia", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/dianshijia.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/dianshijia.js", 
       "settings": [
         {
           "items": [
@@ -211,9 +211,9 @@
           "desc": "极速版提现金额，默认30，前提是绑定支付方式"
         }
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/kuaishou.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/kuaishou.js", 
       "id": "kuaishou", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/kuaishou.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/kuaishou.js", 
       "name": "快手极速版", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/kuaishou.png", 
@@ -226,9 +226,9 @@
         "china_telecom_authToken_10000", 
         "china_telecom_cookie"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/telecomInfinity.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/telecomInfinity.js", 
       "id": "chinatelecomEnquiry", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/telecomInfinity.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/telecomInfinity.js", 
       "settings": [
         {
           "id": "Mon", 
@@ -249,9 +249,9 @@
       "keys": [
         "sy_cookie_dj"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/jddj.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/jddj.js", 
       "id": "jddj", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jddj.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/jddj.js", 
       "name": "京东到家", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/jddj.png", 
@@ -265,9 +265,9 @@
         "signature_lkyl",
         "cookie_lkyl"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/lkyl.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/lkyl.js", 
       "id": "lkyl", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/lkyl.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/lkyl.js", 
       "name": "来客有礼", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/lkyl.png", 
@@ -280,9 +280,9 @@
         "jukan_body", 
         "jukan_name"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/jukan.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/jukan.js", 
       "id": "jukan", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/jukan.js", 
       "settings": [
         {
           "id": "jukan_out", 
@@ -338,9 +338,9 @@
       "keys": [
         "sign_mydigit"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/mydigit.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/mydigit.js", 
       "id": "mydigit", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/mydigit.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/mydigit.js", 
       "name": "数码之家", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/mydigit.png", 
@@ -356,9 +356,9 @@
         "CookieTB", 
         "cash_baidu"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/baidu_speed.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/baidu_speed.js", 
       "id": "baidu_speed", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/baidu_speed.js", 
       "settings": [
         {
           "items": [
@@ -414,9 +414,9 @@
         "video_txnews", 
         "txnews_id"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/txnews.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/txnews.js", 
       "id": "txnews", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/txnews.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/txnews.js", 
       "settings": [
         {
           "id": "notifynum", 
@@ -444,9 +444,9 @@
     {
       "author": "@sunert", 
       "keys": [ ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/tvpreview.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/tvpreview.js", 
       "id": "translate", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/translate.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/translate.js", 
       "settings": [
         {
           "id": "word", 
@@ -468,9 +468,9 @@
       "keys": [
         "c"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/tvpreview.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/tvpreview.js", 
       "id": "TVlist", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/tvpreview.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/tvpreview.js", 
       "settings": [
         {
           "id": "c", 
@@ -496,9 +496,9 @@
         "hour_desc", 
         "index_desc"
       ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/moji.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/moji.js", 
       "id": "moji", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/moji.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/moji.js", 
       "settings": [
         {
           "id": "city", 
@@ -560,9 +560,9 @@
     {
       "author": "@sunert", 
       "keys": [ ], 
-      "repo": "https://github.com/GoodHolidays/Scripts/tree/master/Task/trainquery.js", 
+      "repo": "https://github.com/martinwugo/Scripts/tree/master/Task/trainquery.js", 
       "id": "trainquery", 
-      "script": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/trainquery.js", 
+      "script": "https://raw.githubusercontent.com/martinwugo/Scripts/master/Task/trainquery.js", 
       "settings": [
         {
           "items": [
